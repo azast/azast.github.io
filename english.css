@@ -22,7 +22,7 @@ html{
   /*font-size: 85px;*/
   height: 200px;
   width: 400px;
-  /*text-align: center; */
+  text-align: center;
   color: black;
   position: fixed;
   top: 50%;
