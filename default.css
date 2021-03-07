@@ -19,18 +19,17 @@ html{
   transform: scale(1.1);
 }
 .animate__bounceInDown{
-	/*font-size: 85px;*/
-	height: 200px;
+  height: 200px;
+  font-family: serif;
   width: 400px;
-	text-align: center;
+  text-align: center;
   color: black;
   position: fixed;
   top: 50%;
   left: 50%;
   margin-top: -100px;
   margin-left: -200px;
-  position:absolute;
-	font-family: serif;
+  position:absolute; 
   left:50%;
   top:50%;
   margin-top:- 85/2px;
