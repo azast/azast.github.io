@@ -61,14 +61,18 @@ footer{
    opacity: 100%;
 }
 .card{
-     position: absolute;
-     left: 50%;
-     top: 85%;
-     transform: translate(-50%,-50%);
+  /*position: absolute;*/
+     position: relative;
+     /*left: 50%;*/
+     /*top: 85%;*/
+     top: 50px;
+     /*transform: translate(-50%,-50%);*/
      background-color: black;
      text-decoration-color: white;
-     width: 80vw;
-     height: relative;
+     /*width: 80vw;*/
+     width: 80%;
+     margin: 0 auto;
+     /*height: relative;*/
       opacity: 100%;
 }
 .card-body{
